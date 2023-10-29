@@ -5,10 +5,14 @@ This notebook demonstrates how to generate images using diffusion models. It pro
 ## Setup
 
 To run this notebook, you'll need Google Colab, [HERE](https://colab.research.google.com/)
+
 Here is the notebook : 
 
-[![Open In Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/gist/faizonly5953/6615388356f2fc9665ec061b09c6100c/stable_diffusion_update.ipynb)
+**Simple :**
+[![SIMPLE](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/gist/faizonly5953/6615388356f2fc9665ec061b09c6100c/stable_diffusion_update.ipynb)
 
+**Advanced :**
+[![ADVANCED](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/gist/faizonly5953/73faf7c436e0508e93a01404e962e2a7/stable_diffusion_advanced.ipynb)
 
 **Short Explanation About Google Colab :**
 

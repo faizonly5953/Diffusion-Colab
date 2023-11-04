@@ -1,4 +1,4 @@
-# Image Generation Using Stable Diffusion Models
+# Image Generation Using Diffusion Models
 
 This notebook demonstrates how to generate images using diffusion models. It provides examples of different models and prompts you can use to generate images.
 
